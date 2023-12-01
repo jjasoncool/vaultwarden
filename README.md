@@ -1,7 +1,7 @@
 ## First
   - `cp .env.template .env`
   - You need to create the storage data path to do `docker-compose up`
-  - `${DB_DATAPATH}` and `${DB_DATAPATH}`
+    - `${VW_DATAPATH}` and `${DB_DATAPATH}`
 
 ## ADMIN_TOKEN
   - generate token
